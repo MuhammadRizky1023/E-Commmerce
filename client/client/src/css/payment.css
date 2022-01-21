@@ -1,0 +1,36 @@
+.payment {
+    margin: auto;
+    margin-top: 50px;
+    width: 60%;
+  }
+  
+  .payment .double-input {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  }
+  
+  .payment .double-input .half-input {
+    width: 49%;
+  }
+  
+  .payment .payment-method .payment-source {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    width: 40%;
+    margin: 25px 0 40px;
+    border: 2px solid #999;
+    border-radius: 5px;
+    padding: 10px;
+  }
+  
+  .payment .payment-btn {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: auto;
+    width: 20%;
+  }
+  
