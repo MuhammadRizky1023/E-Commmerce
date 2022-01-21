@@ -1,0 +1,1609 @@
+#MainPage{
+  width: 1152px;
+  position: relative;
+  height: 700px;
+  background: #FFFFFf;
+}
+#Choose{
+position: absolute;
+width: 619px;
+height: 184px;
+left: 77px;
+top: 70px;
+font-style: normal;
+font-weight: normal;
+font-size: 60px;
+line-height: 94.92%;
+}
+#Blur{
+  /* Rectangle 3 */
+
+position: absolute;
+width: 692px;
+height: 661px;
+left: 0px;
+top: 0px;
+
+background: rgba(231, 240, 242, 0.3);
+backdrop-filter: blur(6px);
+/* Note: backdrop-filter has minimal browser support */
+
+}
+
+#ButtomShop{
+
+position: absolute;
+width: 98px;
+height: 32px;
+left: 77px;
+top: 294px;
+
+background: #000000;
+border: 1px solid #000000;
+box-sizing: border-box;
+}
+#shopText{
+position: absolute;
+width: 98px;
+height: 32px;
+left: 98px;
+top: 295px;
+font-family: Ubuntu;
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 14px;
+display: flex;
+align-items: center;
+text-align: center;
+color: #FFFFFF;
+}
+#NewConcept{
+position: absolute;
+width: 619px;
+height: 89px;
+left: 442px;
+top: 278px;
+font-family: Ubuntu;
+font-style: normal;
+
+font-size: 36px;
+line-height: 34px;
+text-align: right;
+color: #000000;
+}
+#lorem{
+position: absolute;
+width: 200px;
+height: 56px;
+left: 861px;
+top: 388.5px;
+
+font-family: Ubuntu;
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 14px;
+text-align: right;
+
+color: rgba(0, 0, 0, 0.55);
+}
+#Latest{
+position: absolute;
+width: 200px;
+height: 15.38px;
+left: 856px;
+top: 88px;
+font-family: Ubuntu;
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 14px;
+text-align: right;
+color: rgba(0, 0, 0, 0.4);
+}
+#Line---{
+  /* Line 3 */
+
+position: absolute;
+width: 241px;
+height: 0px;
+left: 823px;
+top: 373px;
+
+border: 1px solid #E7F0F2;
+
+}
+#All{
+position: absolute;
+width: 200px;
+height: 15.38px;
+left: 856px;
+top: 124.16px;
+font-family: Ubuntu;
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 14px;
+text-align: right;
+color: rgba(0, 0, 0, 0.4);
+}
+#Line-100{
+position: absolute;
+width: 1px;
+height: 79.97px;
+left: 1071px;
+top: 78.84px;
+background: #E7F0F2;
+}
+#GalleryBox{
+position: absolute;
+width: 215px;
+height: 114px;
+left: 321px;
+top: 473px;
+background: #000000;
+}
+#Gallery{
+position: absolute;
+width: 74px;
+height: 10px;
+left: 446px;
+top: 550px;
+font-family: Roboto;
+font-style: normal;
+font-weight: 900;
+font-size: 9px;
+line-height: 11px;
+text-align: right;
+text-transform: uppercase;
+color: #FFFFFF;
+}
+
+
+#ActivityBox{
+position: absolute;
+width: 215px;
+height: 114px;
+left: 585px;
+top: 473px;
+
+background: #000000;
+
+}
+#Activity{
+position: absolute;
+width: 74px;
+height: 10px;
+left: 710px;
+top: 550px;
+font-family: Roboto;
+font-style: normal;
+font-weight: 900;
+font-size: 9px;
+line-height: 11px;
+text-align: right;
+text-transform: uppercase;
+color: #FFFFFF;
+}
+#subTitle{
+position: absolute;
+width: 74px;
+height: 8px;
+left: 446px;
+top: 564px;
+
+font-family: Ubuntu;
+font-style: normal;
+font-weight: 500;
+font-size: 7px;
+line-height: 8px;
+/* identical to box height */
+text-align: right;
+text-transform: uppercase;
+
+color: #FFFFFF;
+}
+
+
+#subTitle1{
+/* SubTITLE */
+
+position: absolute;
+width: 74px;
+height: 8px;
+left: 710px;
+top: 564px;
+
+font-family: Ubuntu;
+font-style: normal;
+font-weight: 500;
+font-size: 7px;
+line-height: 8px;
+/* identical to box height */
+text-align: right;
+text-transform: uppercase;
+
+color: #FFFFFF;
+
+
+}
+#subTitle2{
+  /* SubTITLE */
+
+position: absolute;
+width: 74px;
+height: 8px;
+left: 972px;
+top: 564px;
+
+font-family: Ubuntu;
+font-style: normal;
+font-weight: 500;
+font-size: 7px;
+line-height: 8px;
+/* identical to box height */
+text-align: right;
+text-transform: uppercase;
+
+color: #FFFFFF;
+
+
+}
+#Keynotes{
+position: absolute;
+width: 74px;
+height: 10px;
+left: 972px;
+top: 550px;
+font-family: Roboto;
+font-style: normal;
+font-weight: 900;
+font-size: 9px;
+line-height: 11px;
+text-align: right;
+text-transform: uppercase;
+
+color: #FFFFFF;
+}
+#KeynotesBox{
+  position: absolute;
+  width: 215px;
+  height: 114px;
+  left: 849px;
+  top: 473px; 
+  background: #000000;
+}
+#Line-{
+  /* Line */
+
+position: absolute;
+width: 1152px;
+height: 0px;
+left: 0px;
+top: 661px;
+
+border: 0.5px solid #C4C4C4;
+
+}
+#square{
+position: absolute;
+width: 1152px;
+height: 39px;
+left: 0px;
+top: 661px;
+
+background: #FFFFFF;
+
+}
+
+#nonagon{
+
+position: absolute;
+width: 16px;
+height: 16px;
+left: 568px;
+top: 672px;
+}
+
+
+
+#nonagon1{
+
+position: absolute;
+left: 0%;
+right: 80%;
+top: 39.99%;
+bottom: 40.01%;
+
+background: #000000;
+}
+
+#nonagon2{
+
+position: absolute;
+left: 40%;
+right: 40%;
+top: 39.99%;
+bottom: 40.01%;
+
+background: #000000;
+}
+
+
+#nonagon3{
+
+position: absolute;
+left: 80%;
+right: 0%;
+top: 39.99%;
+bottom: 40.01%;
+
+background: #000000;
+}
+
+
+#nonagon4{
+
+position: absolute;
+left: 0%;
+right: 80%;
+top: 80%;
+bottom: 0%;
+
+background: #000000;
+}
+
+
+#nonagon5{
+
+position: absolute;
+left: 40%;
+right: 40%;
+top: 80%;
+bottom: 0%;
+
+background: #000000;
+}
+
+
+#nonagon6{
+
+position: absolute;
+left: 80%;
+right: 0%;
+top: 80%;
+bottom: 0%;
+
+background: #000000;
+}
+
+
+#nonagon7{
+position: absolute;
+left: 0%;
+right: 80%;
+top: 0%;
+bottom: 80%;
+
+background: #000000;
+}
+
+
+#nonagon8{
+
+position: absolute;
+left: 40%;
+right: 40%;
+top: 0%;
+bottom: 80%;
+
+background: #000000;
+}
+
+#nonagon9{
+
+position: absolute;
+left: 80%;
+right: 0%;
+top: 0%;
+bottom: 80%;
+
+background: #000000;
+}
+
+
+
+
+#Product{
+  position: relative;
+  width: 1152px;
+  height: 700px;
+  background: #FFFFFf;
+
+}
+#ColorItemTypeName{
+ /* Color Item Type / Name */
+
+position: absolute;
+width: 435px;
+height: 91px;
+left: 578px;
+top: 107px;
+
+font-family: Ubuntu;
+font-style: normal;
+font-weight: 300;
+font-size: 36px;
+line-height: 34px;
+display: flex;
+
+color: #363A41;
+
+
+}
+#group3{
+  position: absolute;
+  width: 216px;
+  height: 51.54px;
+  left: 880px;
+  top: 88px;
+}
+#goback{
+  position: absolute;
+  width: 87px;
+  height: 15px;
+  left: 993px;
+  top: 88px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 12px;
+  line-height: 14px;
+  text-align: right;
+  color: #000000;
+}
+#money{
+  position: absolute;
+  width:  103px;
+  height: 62px;
+  left: 582px;
+  top: 229px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 24px;
+  line-height: 20px;
+  color: #363A41;
+}
+#description{
+  position: absolute;
+  width: 346px;
+  height: 131px;
+  left: 582px;
+  top: 300px;
+  font-family: Ubuntu;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+  color: rgba(0, 0, 0, 0.3);
+}
+#Rectangle-2{
+position: absolute;
+width: 1152px;
+height: 39px;
+left: 0px;
+top: 661px;
+background: #FFFFFF;
+}
+
+#Group1{
+position: absolute;
+width: 16px;
+height: 16px;
+left: 58px;
+top: -600px;
+}
+  #Rectangle2-0{
+  position: absolute;
+  width: 3.2px;
+  height: 3.2px;
+  left: 568px;
+  top: 678.4px;
+  background: #000000;
+  }
+  #Rectangle2-1{
+  position: absolute;
+  width: 3.2px;
+  height: 3.2px;
+  left: 574.4px;
+  top: 678.4px;
+  background: #000000;
+  }
+  #Rectangle2-2{
+  position: absolute;
+  width: 3.2px;
+  height: 3.2px;
+  left: 580.8px;
+  top: 678.4px;
+  background: #000000;
+  }
+  
+  #Rectangle2-3{
+  position: absolute;
+  width: 3.2px;
+  height: 3.2px;
+  left: 568px;
+  top: 684.8px;
+  
+  background: #000000;
+  }
+  
+  
+  #Rectangle2-4{
+  position: absolute;
+  width: 3.2px;
+  height: 3.2px;
+  left: 574.4px;
+  top: 684.8px;
+  
+  background: #000000;
+  }
+  
+  
+  
+  #Rectangle2-5{
+  position: absolute;
+  width: 3.2px;
+  height: 3.2px;
+  left: 580.8px;
+  top: 684.8px;
+  
+  background: #000000;
+  }
+  
+  
+  #Rectangle2-6{
+  
+  position: absolute;
+  width: 3.2px;
+  height: 3.2px;
+  left: 568px;
+  top: 672px;
+  
+  background: #000000;
+  }
+  
+  
+  #Rectangle2-7{
+  
+  position: absolute;
+  width: 3.2px;
+  height: 3.2px;
+  left: 574.4px;
+  top: 672px;
+  
+  background: #000000;
+  }
+  
+  
+  #Rectangle2-8{
+  
+  position: absolute;
+  width: 3.2px;
+  height: 3.2px;
+  left: 580.8px;
+  top: 672px;
+  
+  background: #000000;
+  }
+  
+
+
+
+#Line1{
+position: absolute;
+width: 1152px;
+height: 0px;
+left: 0px;
+top: 50px;
+border: 0.5px solid #C4C4C4;
+}
+
+
+#group4{
+  position: absolute;
+  width: 147px;
+  height: 37px;
+  left: 580px;
+  top: 450px;
+}
+#Select{
+  position: absolute;
+  width: 115px;
+  height: 37px;
+  left: 625px;
+  top: 450px;
+  font-family: Roboto;
+  line-height: 28px;
+  font-size: 24px;
+  display: flex;
+  align-items: center;
+  color: rgba(0, 0, 0, 0.85);
+}
+
+
+
+#Size{
+  position: absolute;
+  width: 34px;
+  height: 15px;
+  left: 588px;
+  top: 450px;
+  font-family: Ubuntu;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 14px;
+  display: flex;
+  align-items: flex-end;
+  color: rgba(0, 0, 0, 0.55);
+}
+
+#ImageUrl{
+position: absolute;
+width: 523px;
+height: 567px;
+left: 70px;
+top: 39px;
+}
+#image{
+  position: absolute;
+  left: 0%;
+  right: 0%;
+  top: 0%;
+  bottom: 0%;
+  background: url(4842.jpg);
+}
+
+#image72{
+position: absolute;
+width: 535px;
+height: 738px;
+left: 99px;
+top: 29px;
+
+}
+#image72-1{
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+}
+#rectangle2{
+  position: absolute;
+  width: 511px;
+  height: 679px;
+  left: -12px;
+  top: -18px;
+  background: rgba(231, 240, 242, 0.3);
+  backdrop-filter: blur(6px);
+}
+#rectangle2-1{
+  position: absolute;
+  visibility: hidden;
+  width: 490px;
+  height: 661px;
+  left: 0px;
+  top: 0px;
+  background: #000000;
+}
+
+#Rectangle4-1{
+  position: absolute;
+  width: 1px;
+  height: 29.97px;
+  left: 1097px;
+  top: 88px;
+  background: rgba(231, 240, 242, 1);
+
+}
+
+#vector{
+position: absolute;
+width: 3px;
+height: 6px;
+left: 755px;
+top: 468px;
+border: 0.5px solid #000000;
+transform: rotate(90deg);
+}
+#Empty{
+position: absolute;
+width: 200px;
+height: 15.38px;
+left: 880px;
+top: 124.16px;
+font-family: Ubuntu;
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 14px;
+text-align: right;
+color: #000000;
+}
+#material{
+position: absolute;
+width: 88px;
+height: 125px;
+left: 977px;
+top: 440px;
+font-family: Ubuntu;
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 14px;
+display: flex;
+align-items: flex-end;
+text-align: right;
+color: rgba(0, 0, 0, 0.55);
+}
+#Rectangle3{
+position: absolute;
+width: 147px;
+height: 48px;
+left: 582px;
+top: 561px;
+background: #000000;
+border: 1px solid #000000;
+box-sizing: border-box;
+}
+#ADDTOCART{
+position: absolute;
+width: 147px;
+height: 48px;
+left: 605px;
+top: 551px;
+font-family: Ubuntu;
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 14px;
+display: flex;
+align-items: center;
+text-align: center;
+color: #FFFFFF;
+}
+#rectanglev{
+position: absolute;
+width: 40px;
+height: 48px;
+left: 125px;
+top: 561px;
+background: #000000;
+}
+#rectanglep{
+position: absolute;
+width: 40px;
+height: 48px;
+left: 77px;
+top: 561px;
+background: #000000;
+}
+#vectorleft{
+position: absolute;
+width: 7px;
+height: 13px;
+left: 93px;
+top: 579px;
+background: url(Vector\ \(4\).png);
+}
+#vectorRight{
+position: absolute;
+width: 7px;
+height: 13px;
+left: 142px;
+top: 579px;
+background: url(Vector\ \(5\).png);
+
+}
+#MaskGroup {
+
+position: absolute;
+width: 21px;
+height: 21px;
+left: 1039px;
+top: 35px;
+}
+#image72-2 {
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: url(Mask\ Group.png);
+}
+#Group2{
+  position: absolute;
+  width: 1152px;
+  height: 39px;
+  left: 0px;
+  top: -55px;
+}
+
+
+#Shop{
+position: relative;
+width: 1152px;
+height: 700px;
+background: #FFFFFF;
+}
+
+#Rectangle-22{
+
+position: absolute;
+width: 173px;
+height: 116px;
+left: 294px;
+top: 272px;
+
+background: rgba(231, 240, 242, 0.3);
+backdrop-filter: blur(6px);
+/* Note: backdrop-filter has minimal browser support */
+}
+#Group32{
+position: absolute;
+width: 146px;
+height: 199.97px;
+left: 3px;
+top: 25px;
+}
+#Filter1{
+position: absolute;
+width: 123px;
+height: 16px;
+left: 933px;
+top: 161px;
+font-family: Roboto;
+font-style: normal;
+font-weight: 900;
+font-size: 12px;
+line-height: 14px;
+text-align: right;
+color: #000000;
+}
+ #Filter2{
+position: absolute;
+width: 123px;
+height: 15px;
+left: 933px;
+top: 197px;
+font-family: Ubuntu;
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 14px;
+text-align: right;
+color: #000000;
+}
+#Filter3{
+position: absolute;
+width: 123px;
+height: 15px;
+left: 933px;
+top: 233px;
+font-family: Ubuntu;
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 14px;
+text-align: right;
+color: #000000;
+}
+#Filter4{
+    /* FILTER 4 */
+
+position: absolute;
+width: 123px;
+height: 15px;
+left: 933px;
+top: 269px;
+
+font-family: Ubuntu;
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 14px;
+text-align: right;
+
+color: #000000;
+
+
+}
+#Filter5{
+position: absolute;
+width: 123px;
+height: 15px;
+left: 933px;
+top: 305px;
+font-family: Ubuntu;
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 14px;
+text-align: right;
+color: #000000;
+
+
+}
+#All{
+position: absolute;
+width: 123px;
+height: 15px;
+left: 933px;
+top: 125px;
+font-family: Ubuntu;
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 14px;
+text-align: right;
+color: #000000;
+}
+
+
+
+
+#Group31{
+position: absolute;
+width: 143px;
+height: 199.97px;
+left: 76px;
+top: 10px;
+}
+
+
+
+#Group3{
+position: absolute;
+width: 16px;
+height: 16px;
+left: 568px;
+top: 672px;
+
+}
+
+
+
+ #Rectangle-42{
+position: absolute;
+width: 1px;
+height: 199.97px;
+left: 76px;
+top: 335px;
+
+background: #E7F0F2;
+ }
+
+
+#Category1{
+position: absolute;
+width: 127px;
+height: 16px;
+left: 92px;
+top: 371px;
+font-family: Roboto;
+font-style: normal;
+font-weight: 900;
+font-size: 12px;
+line-height: 14px;
+color: #000000;
+}
+
+
+
+#Category2{
+
+position: absolute;
+width: 127px;
+height: 15px;
+left: 92px;
+top: 407px;
+
+font-family: Ubuntu;
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 14px;
+
+color: #000000;
+}
+
+
+
+#Category3{
+
+position: absolute;
+width: 127px;
+height: 15px;
+left: 92px;
+top: 443px;
+
+font-family: Ubuntu;
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 14px;
+
+color: #000000;
+}
+#Category4{
+
+position: absolute;
+width: 127px;
+height: 15px;
+left: 92px;
+top: 479px;
+
+font-family: Ubuntu;
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 14px;
+
+color: #000000;
+}
+ #Category5{
+
+position: absolute;
+width: 127px;
+height: 15px;
+left: 92px;
+top: 515px;
+
+font-family: Ubuntu;
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 14px;
+
+color: #000000;
+ }
+#Featured{
+
+position: absolute;
+width: 127px;
+height: 15px;
+left: 92px;
+top: 335px;
+
+font-family: Ubuntu;
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 14px;
+
+color: #000000;
+}
+#shopName{
+position: absolute;
+width: 415px;
+height: 44px;
+left: 76px;
+top: 15px;
+font-family: Ubuntu;
+font-style: normal;
+font-weight: 300;
+font-size: 36px;
+line-height: 34px;
+color: #000000;
+}
+#Rectangle-52{
+position: absolute;
+width: 257.65px;
+height: 63px;
+left: 930.77px;
+top: 14.81px;
+background: #000000;
+}
+#image-72-2{
+position: absolute;
+width: 21px;
+height: 21px;
+left: 1039px;
+top: 35px;
+
+background: url(Mask\ Group.png);
+
+}
+
+#Group-4{
+position: absolute;
+width: 205px;
+height: 32px;
+left: 58px;
+top: 15px;
+}
+
+
+
+#Products{
+
+position: absolute;
+width: 127px;
+height: 18px;
+left: 745px;
+top: 39px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 900;
+font-size: 15px;
+line-height: 14px;
+text-align: center;
+
+
+}
+
+
+
+ #Line-1{
+position: absolute;
+width: 205px;
+height: 0px;
+left: 728px;
+top: 67px;
+
+border: 0.5px solid #C4C4C4;
+}
+
+
+#image-search{
+
+position: absolute;
+width: 21px;
+height: 21px;
+left: 893px;
+top: 35px;
+}
+
+
+
+#image72-2{
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: url(image\ 72.2\ \(2\).png);
+}
+
+
+
+#titleCategory{
+    position: absolute;
+    width: 137px;
+    height: 46px;
+    left: 25px;
+    top: 55px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 14px;
+    line-height: 16px;
+    color: #000000;
+}
+
+
+
+ #Rectangle-27 {
+
+position: absolute;
+width: 173px;
+height: 116px;
+left: 294px;
+top: 125px;
+
+background: rgba(231, 240, 242, 0.3);
+backdrop-filter: blur(6px);
+/* Note: backdrop-filter has minimal browser support */
+ }
+ 
+ #Rectangle-28{
+
+position: absolute;
+width: 173px;
+height: 116px;
+left: 507px;
+top: 125px;
+
+background: rgba(231, 240, 242, 0.3);
+backdrop-filter: blur(6px);
+/* Note: backdrop-filter has minimal browser support */
+ }
+
+#Rectangle-210{
+/* Rectangle 2.10 */
+
+position: absolute;
+width: 173px;
+height: 116px;
+left: 720px;
+top: 125px;
+
+background: rgba(231, 240, 242, 0.3);
+backdrop-filter: blur(6px);
+/* Note: backdrop-filter has minimal browser support */
+
+ }
+
+#titleCategory3{
+
+position: absolute;
+width: 137px;
+height: 46px;
+left: 20px;
+top: 52px;
+font-family: Roboto;
+font-style: normal;
+font-weight: 900;
+font-size: 14px;
+line-height: 16px;
+color: #000000;
+}
+#Rectangle-24{
+
+position: absolute;
+width: 173px;
+height: 116px;
+left: 507px;
+top: 272px;
+
+background: rgba(231, 240, 242, 0.3);
+backdrop-filter: blur(6px);
+/* Note: backdrop-filter has minimal browser support */
+}
+
+#Rectangle-29{
+position: absolute;
+width: 173px;
+height: 116px;
+left: 720px;
+top: 272px;
+background: rgba(231, 240, 242, 0.3);
+backdrop-filter: blur(6px);
+/* Note: backdrop-filter has minimal browser support */
+
+}
+
+#Rectangle-30{
+position: absolute;
+width: 173px;
+height: 116px;
+left: 294px;
+top: 419px;
+background: rgba(231, 240, 242, 0.3);
+backdrop-filter: blur(6px);
+/* Note: backdrop-filter has minimal browser support */
+}
+#Rectangle-31{
+position: absolute;
+width: 173px;
+height: 116px;
+left: 507px;
+top: 419px;
+
+background: rgba(231, 240, 242, 0.3);
+backdrop-filter: blur(6px);
+/* Note: backdrop-filter has minimal browser support */
+
+}
+
+    
+#Rectangle-32{
+position: absolute;
+width: 173px;
+height: 116px;
+left: 720px;
+top: 419px;
+
+background: rgba(231, 240, 242, 0.3);
+backdrop-filter: blur(6px);
+/* Note: backdrop-filter has minimal browser support */
+}
+
+ #number{
+position: absolute;
+width: 306px;
+height: 30px;
+left: 453px;
+top: 970px;
+font-family: Roboto;
+font-style: normal;
+font-weight: 900;
+font-size: 18px;
+line-height: 21px;
+display: flex;
+align-items: flex-end;
+text-align: center;
+letter-spacing: 1em;
+color: #000000;
+}
+#LineNumber{
+position: absolute;
+width: 336px;
+height: 0px;
+left: 408px;
+top: 970px;
+
+border: 0.5px solid #E7F0F2;
+
+}
+ 
+
+
+#Rectangle3-0{
+
+position: absolute;
+width: 3.2px;
+height: 3.2px;
+left: 568px;
+top: 678.4px;
+
+background: #000000;
+}
+
+
+#Rectangle3-1{
+
+position: absolute;
+width: 3.2px;
+height: 3.2px;
+left: 574.4px;
+top: 678.4px;
+
+background: #000000;
+}
+
+
+#Rectangle3-2{
+
+position: absolute;
+width: 3.2px;
+height: 3.2px;
+left: 580.8px;
+top: 678.4px;
+
+background: #000000;
+}
+
+
+#Rectangle3-3{
+
+position: absolute;
+width: 3.2px;
+height: 3.2px;
+left: 568px;
+top: 684.8px;
+
+background: #000000;
+}
+
+
+#Rectangle3-4{
+
+position: absolute;
+width: 3.2px;
+height: 3.2px;
+left: 574.4px;
+top: 684.8px;
+
+background: #000000;
+}
+
+
+ #Rectangle3-5{
+
+position: absolute;
+width: 3.2px;
+height: 3.2px;
+left: 580.8px;
+top: 684.8px;
+
+background: #000000;
+ }
+
+
+#Rectangle3-6{
+
+position: absolute;
+width: 3.2px;
+height: 3.2px;
+left: 568px;
+top: 672px;
+
+background: #000000;
+}
+
+
+#Rectangle3-7{
+
+position: absolute;
+width: 3.2px;
+height: 3.2px;
+left: 574.4px;
+top: 672px;
+
+background: #000000;
+}
+
+
+#Rectangle3-8{
+
+position: absolute;
+width: 3.2px;
+height: 3.2px;
+left: 580.8px;
+top: 672px;
+
+background: #000000;
+}
+
+
+#LineA{
+    position: absolute;
+    width: 1152px;
+    height: 0px;
+    left: 0px;
+    top: 0px;
+    border: 0.5px solid rgba(196, 196, 196, 1)
+}
+#rectangle-2b{
+position: absolute;
+width: 1152px;
+height: 39px;
+left: 0px;
+top: 1020px;
+
+background: #FFFFFF;
+ }
+#ColorItemTypeName{
+  font-weight: bolder
+}
+#groupnonagen{
+  position: absolute;
+  width: 16px;
+  height: 16px;
+  left: -10px;
+  top: 350px;  
+}
+#nonagenA{
+/* Rectangle 3.8 */
+position: absolute;
+width: 3.2px;
+height: 3.2px;
+left: 580.8px;
+top: 672px;
+
+background: #000000;
+}
+#nonagenB{
+  /* Rectangle 3.7 */
+
+
+position: absolute;
+width: 3.2px;
+height: 3.2px;
+left: 574.4px;
+top: 672px;
+
+background: #000000;
+}
+#nonagenC{
+  /* Rectangle 3.6 */
+
+
+position: absolute;
+width: 3.2px;
+height: 3.2px;
+left: 568px;
+top: 672px;
+
+background: #000000;
+}
+#nonagenD{
+  /* Rectangle 3.5 */
+
+
+position: absolute;
+width: 3.2px;
+height: 3.2px;
+left: 580.8px;
+top: 684.8px;
+
+background: #000000
+}
+#nonagenE{
+  /* Rectangle 3.4 */
+
+
+position: absolute;
+width: 3.2px;
+height: 3.2px;
+left: 574.4px;
+top: 684.8px;
+
+background: #000000;
+}
+#nonagonF{
+/* Rectangle 3.3 */
+
+
+position: absolute;
+width: 3.2px;
+height: 3.2px;
+left: 568px;
+top: 684.8px;
+
+background: #000000;
+}
+#nonagenG{
+/* Rectangle 3.2 */
+
+
+position: absolute;
+width: 3.2px;
+height: 3.2px;
+left: 580.8px;
+top: 678.4px;
+
+background: #000000;
+}
+#nonagenH{
+  /* Rectangle 3.1 */
+position: absolute;
+width: 3.2px;
+height: 3.2px;
+left: 574.4px;
+top: 678.4px;
+
+background: #000000;
+}
+#nonagenI{
+  /* Rectangle 3 */
+
+
+position: absolute;
+width: 3.2px;
+height: 3.2px;
+left: 568px;
+top: 678.4px;
+
+background: #000000;
+}
+#nonagenJ{
+position: absolute;
+width: 3.2px;
+height: 3.2px;
+left: 568px;
+top: 684.8px;
+
+background: #000000;
+}
+.contain{
+  display: flex;
+  margin-top: 10px;
+  color: blueviolet;
+}
+
+
+.link{
+  text-decoration: none;
+  color: inherit;
+}
