@@ -1,0 +1,29 @@
+.form {
+    margin: auto;
+    margin-top: 50px;
+    width: 50%;
+  }
+  
+  .form h1 {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .form form {
+    border: 2px solid #666;
+    border-radius: 5px;
+    padding: 30px 20px;
+  }
+  
+  .form form .image .current-image {
+    margin-bottom: 50px;
+  }
+  
+  .form form .buttons {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 50px;
+  }
+.link{
+  color: white;
+}  
